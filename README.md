@@ -1,2 +1,7 @@
 # portfolio
 ahmad-muhammad-portfolio
+# Ahmad Muhammad  
+### GitHub Profile: https://github.com/muhammadahmadd224
+
+Network Engineer with CCNA & AWS Solutions Architect Associate certification.  
+Working on DevOps, Terraform, FastAPI, Docker, AWS EKS, RDS, VPC projects.
